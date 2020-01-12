@@ -11,3 +11,5 @@ else if(age > 18){
 else{
     alert("Congratulations on your first year of driving. Enjoy the ride!")
 }
+
+let a = 10;
