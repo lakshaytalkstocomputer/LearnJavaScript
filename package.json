@@ -1,0 +1,30 @@
+{
+  "name": "learnjavascript",
+  "version": "1.0.0",
+  "description": "Learning Javascript, node , full stack",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lakshaytalkstocomputer/LearnJavaScript.git"
+  },
+  "keywords": [
+    "learn",
+    "js",
+    "node",
+    "full-stack"
+  ],
+  "author": "Lakshay Sagar Rana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lakshaytalkstocomputer/LearnJavaScript/issues"
+  },
+  "homepage": "https://github.com/lakshaytalkstocomputer/LearnJavaScript#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
